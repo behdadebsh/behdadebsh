@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a Research fellow based in Auckland Bioengineering Institute. I love medical research and working with data and medical images. Here are some of the projects I'm currently working on:
 </br>
 
  <div>
@@ -17,6 +18,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/behdadebsh/behdadebsh/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/behdadebsh/behdadebsh/github-contribution-grid-snake.svg)
  
 </div>
