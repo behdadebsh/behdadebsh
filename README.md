@@ -4,7 +4,7 @@
 - I studied mechanical engineering (bachelors), biomechanics (Masters) in Iran, and came to New Zealand to study for a PhD in bioengineering.
 
 
-![snake gif](https://github.com/behdadebsh/behdadebsh/blob/80880fad0ab6e187c6fd216cb509cc2cec8abf02/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/behdadebsh/behdadebsh/blob/output/github-contribution-grid-snake.svg)
  <div>
   <a href="https://github.com/behdadebsh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=behdadebsh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
