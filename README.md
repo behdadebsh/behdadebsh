@@ -5,10 +5,7 @@
 
 
 ![Snake animation](https://github.com/behdadebsh/behdadebsh/blob/output/github-contribution-grid-snake.svg)
- <div>
-  <a href="https://github.com/behdadebsh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=behdadebsh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+
  
 **Languages**
 
@@ -27,6 +24,9 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/behdadebsh/behdadebsh/blob/output/github-contribution-grid-snake.svg)
+ <div>
+  <a href="https://github.com/behdadebsh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=behdadebsh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
  
 </div>
