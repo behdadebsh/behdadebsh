@@ -1,11 +1,14 @@
 ## Hi there, I'm Behdad👋
 ### Short bio:
-- I’m a Research fellow 👨‍🔬 based in Auckland Bioengineering Institute. I love medical research and working with data and medical images.
-- I studied mechanical engineering (bachelors), biomechanics (Masters) in Iran, and came to New Zealand where I got my PhD in bioengineering.
+- I’m a biomedical research scientist 👨‍🔬. Welcome to my profile.
+- PhD in Bioengineering
+- and I can't stop appreciating this dancing parrot!
 
 ---
 
-![Snake animation](https://github.com/behdadebsh/behdadebsh/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img width="600" src="https://cdn.rawgit.com/marionebl/svg-term-cli/1250f9c1/examples/parrot.svg">
+</p>
 
 ---
 
